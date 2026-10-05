@@ -14,8 +14,8 @@
 模板如下：
 
 ```markdown
-<!-- 标题为 {论文概述}。{当前状态}。仓库描述同此标题 -->
-# TPCS（VUL）语法、执行语义、RTL生成。TC Rev 1
+<!-- 标题为 {负责人}。{论文概述}。{当前状态}。仓库描述同此标题 -->
+# 孟成真。TPCS（VUL）语法、执行语义、RTL生成。TC Rev 1
 
 > **论文标题：** TPCS: A Cycle-Level Simulation Paradigm with Native Execution Semantics for RTL Modeling and Generation
 
