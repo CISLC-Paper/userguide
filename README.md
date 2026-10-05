@@ -33,12 +33,12 @@
 
 ## 当前进度
 
-- [-] Introduction / 引言
-- [-] Background & Related Work / 背景与相关工作
-- [-] Method / Design / 方法与设计
-- [-] Implementation / 实现
-- [-] Evaluation / 实验评估
-- [-] Conclusion / 总结
+- [x] Introduction / 引言
+- [x] Background & Related Work / 背景与相关工作
+- [x] Method / Design / 方法与设计
+- [x] Implementation / 实现
+- [x] Evaluation / 实验评估
+- [x] Conclusion / 总结
 - [ ] 图表检查
 - [ ] 引用检查
 - [ ] 内部审阅
@@ -46,7 +46,7 @@
 
 ### 当前主要任务
 
-- [-] 已完成的任务
+- [x] 已完成的任务
 - [ ] `<任务 2>`
 - [ ] `<任务 3>`
 ```
